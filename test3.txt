@@ -1,2 +1,2 @@
-file for branch-new
-Confilct by master
+file for branch
+Confilct merge by master and branch-new
